@@ -1,2 +1,2 @@
-# gitnextline
+# getnextline
 Project of 42
